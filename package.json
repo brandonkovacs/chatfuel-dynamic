@@ -1,0 +1,25 @@
+{
+  "name": "chatfuel-dynamic",
+  "version": "1.0.0",
+  "description": "Dynamic Content for Chatfuel Facebook Messenger Bots using NodeJS + Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonkovacs/chatfuel-dynamic.git"
+  },
+  "keywords": [
+    "chatfuel",
+    "facebook",
+    "messenger",
+    "chatbot"
+  ],
+  "author": "@brandonkovacs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonkovacs/chatfuel-dynamic/issues"
+  },
+  "homepage": "https://github.com/brandonkovacs/chatfuel-dynamic#readme"
+}
